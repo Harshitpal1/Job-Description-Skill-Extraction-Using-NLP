@@ -1,0 +1,25 @@
+skill,category,aliases
+Python,Programming,"python3, python"
+Java,Programming,java
+C++,Programming,"c++, cpp"
+JavaScript,Programming,"javascript, js"
+SQL,Database,sql
+MySQL,Database,mysql
+PostgreSQL,Database,"postgres, postgresql"
+MongoDB,Database,"mongodb, mongo"
+Power BI,Data Analytics,"powerbi, power-bi, power bi"
+Tableau,Data Analytics,tableau
+Excel,Data Analytics,"excel, ms excel"
+Pandas,Data Science,pandas
+NumPy,Data Science,numpy
+Scikit-learn,Machine Learning,"scikit learn, sklearn, scikit-learn"
+TensorFlow,Machine Learning,tensorflow
+PyTorch,Machine Learning,pytorch
+AWS,Cloud,aws
+Azure,Cloud,azure
+GCP,Cloud,"gcp, google cloud"
+Spark,Big Data,"spark, apache spark"
+Hadoop,Big Data,"hadoop, apache hadoop"
+Docker,DevOps,docker
+Kubernetes,DevOps,"kubernetes, k8s"
+Git,Version Control,git

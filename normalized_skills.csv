@@ -1,0 +1,46 @@
+raw_skill,canonical_skill
+aws,AWS
+azure,Azure
+c++,C++
+cpp,C++
+deep learning,Deep Learning
+docker,Docker
+ms excel,Excel
+excel,Excel
+google cloud,GCP
+gcp,GCP
+git,Git
+hadoop,Hadoop
+apache hadoop,Hadoop
+java,Java
+js,JavaScript
+javascript,JavaScript
+kubernetes,Kubernetes
+k8s,Kubernetes
+machine learning,Machine Learning
+mongo,MongoDB
+mongodb,MongoDB
+mysql,MySQL
+natural language processing,Natural Language Processing
+numpy,NumPy
+pandas,Pandas
+postgres,PostgreSQL
+postgresql,PostgreSQL
+power bi,Power BI
+powerbi,Power BI
+power-bi,Power BI
+pytorch,PyTorch
+python programming,Python
+python3,Python
+python 3,Python
+python,Python
+sql,SQL
+scikit-learn,Scikit-learn
+scikit learn,Scikit-learn
+sklearn,Scikit-learn
+spark,Spark
+apache spark,Spark
+tableau,Tableau
+tensorflow,TensorFlow
+ts,TypeScript
+typescript,TypeScript

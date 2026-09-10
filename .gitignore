@@ -1,0 +1,11 @@
+venv/
+winvenv/
+.ipynb_checkpoints/
+skill_bert_model/
+skill_bert_model_final/
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+.idea/
