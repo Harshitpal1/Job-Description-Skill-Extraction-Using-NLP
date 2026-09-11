@@ -99,6 +99,9 @@ For security, database credentials should be stored using environment variables 
 
 Future improvements may include advanced resume-job matching, candidate ranking, skill-gap analysis, personalized learning recommendations, job recommendations, an expanded skill taxonomy, and improved domain-specific Transformer models.
 
+## Demo
+To try out the Job Skill Extractor model, visit [here](https://job-skill-extractor.streamlit.app/).
+
 ## Author
 
 **Harshit Pal**
