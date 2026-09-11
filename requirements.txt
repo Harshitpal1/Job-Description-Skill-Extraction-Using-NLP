@@ -1,0 +1,7 @@
+streamlit
+joblib
+scikit-learn==1.5.2
+numpy
+pandas
+pypdf
+python-docx
